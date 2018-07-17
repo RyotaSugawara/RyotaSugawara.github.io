@@ -1,0 +1,21 @@
+{
+  "name": "RyotaSugawara.github.io",
+  "short_name": "ryo_suga",
+  "icons": [
+    {
+      "src": "/icons/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#2d8c3c",
+  "background_color": "#2d8c3c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
